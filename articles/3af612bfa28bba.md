@@ -3,7 +3,7 @@ title: "PHP 8.0の新機能「アトリビュート」を初体験"
 emoji: "✨"
 type: "tech"
 topics: ["php"]
-published: false
+published: true
 ---
 ## はじめに
 PHP 8.0から追加された機能として、「アトリビュート」があります。
