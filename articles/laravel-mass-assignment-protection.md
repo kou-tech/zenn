@@ -1,7 +1,7 @@
 ---
 title: "あなたのLaravelアプリは大丈夫？マスアサインメント保護の落とし穴"
 emoji: "🦌"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["php", "Laravel"]
 published: true
 ---
