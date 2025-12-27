@@ -3,10 +3,11 @@ title: "Azure Easy Auth と Laravel のハイブリッド認証を実装する"
 emoji: "🦌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["php", "laravel", "Azure"]
-published: false
+published: true
+published_at: 2025-12-27 15:00
 ---
 
-Azure App Service の Easy Auth（組み込み認証）と Laravel のセッションベース認証を併用するシステムを実装した。本記事では、設計のアプローチ、実装中に直面した課題、そしてその解決策について記述する。
+Azure App Service の Easy Auth（組み込み認証）と Laravel のセッションベース認証を併用するシステムを実装したので、本記事では、設計のアプローチ、実装中に直面した課題、そしてその解決策について記述する。
 
 ## はじめに
 
