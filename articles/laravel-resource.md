@@ -3,7 +3,7 @@ title: "Laravel API Resourceの活用とスキーマ駆動開発における注�
 emoji: "🦌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Laravel", "PHP"]
-published: false
+published: true
 ---
 
 ## はじめに
