@@ -244,7 +244,7 @@ Easy Auth と Laravel のセッション認証を併用するハイブリッド�
 
 しかし、一度仕組みを理解してしまえば、非常に強力な認証基盤を少ないコードで実現できる。JWT の管理やトークンのリフレッシュといった煩雑な処理を Azure に任せられるのは大きなメリットである。
 
-## 参考文献
+## 参考資料
 
 - [Work with user identities in Azure App Service authentication](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities) - Microsoft Learn
 - [Authentication and Authorization - Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview-authentication-authorization) - Microsoft Learn
