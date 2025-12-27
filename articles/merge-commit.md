@@ -4,6 +4,7 @@ emoji: "🦌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Git"]
 published: true
+published_at: 2025-5-27 15:00
 ---
 
 開発チームで作業していると、マージコミットによって意図しないファイルの削除が発生することがある。
