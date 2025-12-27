@@ -8,7 +8,7 @@ published: false
 
 ## はじめに
 
-本記事では、Laravel API Resources の基本的な使い方と、スキーマ駆動開発における注意点を解説する。筆者は Scramble のような静的解析ベースの OpenAPI 生成ツールを活用しており、その観点から動的プロパティの問題点と推奨するアプローチについても述べる。
+本記事では、Laravel API Resources の基本的な使い方と、スキーマ駆動開発における注意点を解説する。私は Scramble のような静的解析ベースの OpenAPI 生成ツールを活用しており、その観点から動的プロパティの問題点と推奨するアプローチについても述べる。
 
 ## Laravel API Resources とは
 
