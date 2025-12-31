@@ -387,7 +387,7 @@ APIスキーマが変更された場合、フロントエンドで型エラー�
 ```mermaid
 flowchart TB
     subgraph Backend
-        A[Laravel Controller] --> B[Scramble]
+        A[Laravel] --> B[Scramble]
     end
 
     B --> C[OpenAPI Schema<br/>api.json]
