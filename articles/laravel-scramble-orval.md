@@ -57,6 +57,8 @@ class IndexController extends Controller
 
 `@tags`アノテーションでAPIをグループ化できる。
 
+!['scarmbleのGUI'](/images/laravel-scramble-orval/scramble.png)
+
 ### Resourcesの設計指針
 
 Eloquent API Resourcesは、モデルをJSONに変換する際の形式を定義するクラスである。Scrambleは、Resourceクラスの`toArray()`メソッドからレスポンススキーマを推論する。
