@@ -1,5 +1,5 @@
 ---
-title: "LaravelとScrambleとOrvalを活用したスキーマ駆動開発"
+title: "Scramble + Orvalで実現するLaravelのスキーマ駆動開発"
 emoji: "🦌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Laravel", "TypeScript", "OpenAPI", "React"]
